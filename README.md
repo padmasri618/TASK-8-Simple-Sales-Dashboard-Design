@@ -46,9 +46,7 @@ Each chart is dynamically connected through a **Region filter**, enabling focuse
 - **Clean, professional layout** with three clear visual sections.
 - **Color-coded legends** for category clarity.
 - **Descriptive titles** and consistent formatting for a polished look.
-
-📷 *Screenshot available:* `Task8 - Dashboard.png`
-
+  
 ---
 
 ## 5.  Key Insights

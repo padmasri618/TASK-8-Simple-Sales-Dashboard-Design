@@ -1,4 +1,4 @@
-# 📊 Task 8 - Sales Performance Dashboard using Tableau
+#  Task 8 - Sales Performance Dashboard using Tableau
 
 ---
 

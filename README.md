@@ -29,7 +29,6 @@ This dashboard enables business stakeholders to explore trends, identify top-per
 
 ### 🔹 Monthly Sales Trend (Line Chart)
 Displays how total sales have changed over the years (2014–2017), allowing stakeholders to observe growth patterns and seasonal spikes in revenue.
-![Uploading [Sales Dashboard](task8_dashboard.png).png…]()
 
 ### 🔹 Sales by Region (Bar Chart)
 Compares total sales across regions. This visualization highlights regional performance, helping to identify strong and weak markets geographically.
